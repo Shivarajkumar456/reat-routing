@@ -3,8 +3,8 @@ import QuoteList from '../components/quotes/QuoteList'
 
  const AllQuotes = () => {
     const DUMMY_QUOTES = [
-        { id : 'q1' , author: "Max" , text:"Learing from Sharpener"},
-        { id : 'q2' , author: "Shivaraj" , text:"Learing from Udemy"}
+        { id : 'q1' , author: "Yash" , text:"Learing from Sharpener"},
+        { id : 'q2' , author: "Max" , text:"Learing from Udemy"}
 
     ]
   return (

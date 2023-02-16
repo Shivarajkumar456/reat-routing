@@ -3,8 +3,8 @@ import { useParams, Route ,Link  } from "react-router-dom";
 import Comments from "../components/comments/Comments";
 import HighLightedQuote from '../components/quotes/HighlightedQuote'
 const DUMMY_QUOTES = [
-  { id : 'q1' , author: "Sharpener" , text:"Learing from Sharpener"},
-  { id : 'q2' , author: "Rahul" , text:"Learing from Rahul"}
+  { id : 'q1' , author: "Yash" , text:"Learing from Sharpener"},
+  { id : 'q2' , author: "Max" , text:"Learing from Udemy"}
 
 ]
 const QuoteDetail = () => {
